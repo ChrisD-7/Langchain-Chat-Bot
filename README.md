@@ -33,7 +33,7 @@ The curiosity to understand and implement cutting-edge AI technologies is the dr
 
 ## App Demo
 
-![OPENAI Model](Project001-ezgif.com-speed.gif)
+![OPENAI](openai.gif)
 
 ---
 
