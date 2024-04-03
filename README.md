@@ -33,12 +33,8 @@ The curiosity to understand and implement cutting-edge AI technologies is the dr
 
 ## App Demo
 
-![OPENAI](openai.gif)
-
+![OPENAI](Images/openai.gif)
 ---
-
-![Ollama](ollama.png)
-
+![Ollama](Images/ollama.png)
 ---
-
-![LangSmith](diff_models.png)
+![LangSmith](Images/diff_models.png)
