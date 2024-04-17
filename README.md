@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Langchain Chat Bot project! This app is a testament to the power of OpenAI's APIs and the efficiency of Langchain's OLLAMA Local. It's designed to give you a seamless experience in conversational AI, showcasing the use of language models in real-time interactions. Dive into the world of AI-driven chat, all while monitoring the performance on Langsmith!
+Welcome to the Langchain Chat Bot project! This app is tod emonstrate the use of OpenAI's APIs and the efficiency of Langchain's OLLAMA Local. It's designed to see how seamless the experience is to use Langchain, showcasing the use of language models in real-time interactions. We will dive into the world of AI-driven chat, all while monitoring the performance on Langsmith!
 
 ## Features
 
