@@ -13,7 +13,7 @@ Welcome to the Langchain Chat Bot project! This app is a testament to the power 
 
 ## Motivation
 
-The curiosity to understand and implement cutting-edge AI technologies is the driving force behind this project. The combination of OPENAI API's expansive capabilities with the local deployment of OLLAMA's language models presents an intriguing opportunity to explore the power of AI in chat applications.
+The curiosity to understand and use the langchain libraries. The combination of OPENAI API's expansive capabilities with the local deployment of OLLAMA's language models presents an intriguing opportunity to explore the power of AI in chat applications.
 
 ## How to Run the App
 
